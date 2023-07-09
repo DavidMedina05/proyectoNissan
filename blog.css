@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 119, 0);
+}
+img {
+    width: 30%;	
+	margin: calc(10%/6);
+}
+
+nav {
+    text-align: center;
+    justify-items: center;
+	font-family: Raleway;
+	font-weight: 800;
+	font-size: 3.5e; 
+	margin-left: calc(10%/6);	
+	text-transform: uppercase;
+	border-bottom: 1px solid #f1f1f1;
+	width: 30%;
+	padding: 1.5em 0;
+
+}
